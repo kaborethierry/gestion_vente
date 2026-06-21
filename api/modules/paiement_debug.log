@@ -1,0 +1,376 @@
+2026-05-18 23:27:26 - === Début paiement ===
+2026-05-18 23:27:26 - POST: Array
+(
+    [id_prestataire] => 29
+    [type_prestataire] => 
+    [montant] => 9000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-18 23:27:26 - id_prestataire: 29, montant: 9000
+2026-05-18 23:27:26 - Prestataire trouvé: Array
+(
+    [nom] => kankan
+    [prenom] => moussa
+    [type_prestataire] => couturier
+)
+
+2026-05-18 23:27:26 - Mise à jour total_paye: OK
+2026-05-18 23:27:26 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-18 23:27:26 - Succès! Redirection
+2026-05-18 23:27:41 - === Début paiement ===
+2026-05-18 23:27:41 - POST: Array
+(
+    [id_prestataire] => 27
+    [type_prestataire] => 
+    [montant] => 9000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-18 23:27:41 - id_prestataire: 27, montant: 9000
+2026-05-18 23:27:41 - Prestataire trouvé: Array
+(
+    [nom] => ina
+    [prenom] => inao
+    [type_prestataire] => vendeuse
+)
+
+2026-05-18 23:27:41 - Mise à jour total_paye: OK
+2026-05-18 23:27:41 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-18 23:27:41 - Succès! Redirection
+2026-05-18 23:31:52 - === Début paiement ===
+2026-05-18 23:31:52 - POST: Array
+(
+    [id_prestataire] => 25
+    [type_prestataire] => 
+    [montant] => 10000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-18 23:31:52 - id_prestataire: 25, montant: 10000
+2026-05-18 23:31:52 - Prestataire trouvé: Array
+(
+    [nom] => Vié Naabi
+    [prenom] => yard
+    [type_prestataire] => mercerie
+)
+
+2026-05-18 23:31:52 - Mise à jour total_paye: OK
+2026-05-18 23:31:52 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-18 23:31:52 - Succès! Redirection
+2026-05-18 23:33:34 - === Début paiement ===
+2026-05-18 23:33:34 - POST: Array
+(
+    [id_prestataire] => 30
+    [type_prestataire] => 
+    [montant] => 8000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-18 23:33:34 - id_prestataire: 30, montant: 8000
+2026-05-18 23:33:34 - Prestataire trouvé: Array
+(
+    [nom] => LAABAL
+    [prenom] => Cear
+    [type_prestataire] => perleuse
+)
+
+2026-05-18 23:33:34 - Mise à jour total_paye: OK
+2026-05-18 23:33:34 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-18 23:33:34 - Succès! Redirection
+2026-05-18 23:41:04 - === Début paiement ===
+2026-05-18 23:41:04 - POST: Array
+(
+    [id_prestataire] => 10
+    [type_prestataire] => 
+    [montant] => 7000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-18 23:41:04 - id_prestataire: 10, montant: 7000
+2026-05-18 23:41:04 - Prestataire trouvé: Array
+(
+    [nom] => Sawadogo
+    [prenom] => Sadia
+    [type_prestataire] => vendeuse
+)
+
+2026-05-18 23:41:04 - Catégorie: commission_prestataire_vendeuse, Référence: DEP-20260518-3500
+2026-05-18 23:41:04 - Dépense créée avec succès, ID: 21
+2026-05-18 23:41:04 - Mise à jour total_paye: OK
+2026-05-18 23:41:04 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-18 23:41:04 - Succès! Redirection
+2026-05-18 23:43:44 - === Début paiement ===
+2026-05-18 23:43:44 - POST: Array
+(
+    [id_prestataire] => 11
+    [type_prestataire] => 
+    [montant] => 10000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-18 23:43:44 - id_prestataire: 11, montant: 10000
+2026-05-18 23:43:44 - Prestataire trouvé: Array
+(
+    [nom] => Compaore
+    [prenom] => Samira
+    [type_prestataire] => vendeuse
+)
+
+2026-05-18 23:43:44 - Catégorie: commission_prestataire_vendeuse, Référence: DEP-20260518-8003
+2026-05-18 23:43:44 - Dépense créée avec succès, ID: 22
+2026-05-18 23:43:44 - Mise à jour total_paye: OK
+2026-05-18 23:43:44 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-18 23:43:44 - Succès! Redirection
+2026-05-18 23:45:36 - === Début paiement ===
+2026-05-18 23:45:36 - POST: Array
+(
+    [id_prestataire] => 24
+    [type_prestataire] => 
+    [montant] => 20000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-18 23:45:36 - id_prestataire: 24, montant: 20000
+2026-05-18 23:45:36 - Prestataire trouvé: Array
+(
+    [nom] => Thérèse
+    [prenom] => 
+    [type_prestataire] => mercerie
+)
+
+2026-05-18 23:45:36 - Catégorie: salaire_prestataire_mercerie, Référence: DEP-20260518-4342
+2026-05-18 23:45:36 - Dépense créée avec succès, ID: 23
+2026-05-18 23:45:36 - Mise à jour total_paye: OK
+2026-05-18 23:45:36 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-18 23:45:36 - Succès! Redirection
+2026-05-18 23:45:57 - === Début paiement ===
+2026-05-18 23:45:57 - POST: Array
+(
+    [id_prestataire] => 21
+    [type_prestataire] => 
+    [montant] => 30000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-18 23:45:57 - id_prestataire: 21, montant: 30000
+2026-05-18 23:45:57 - Prestataire trouvé: Array
+(
+    [nom] => Rafi
+    [prenom] => 
+    [type_prestataire] => perleuse
+)
+
+2026-05-18 23:45:57 - Catégorie: salaire_prestataire_perleuse, Référence: DEP-20260518-2144
+2026-05-18 23:45:57 - Dépense créée avec succès, ID: 24
+2026-05-18 23:45:57 - Mise à jour total_paye: OK
+2026-05-18 23:45:57 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-18 23:45:57 - Succès! Redirection
+2026-05-18 23:46:11 - === Début paiement ===
+2026-05-18 23:46:11 - POST: Array
+(
+    [id_prestataire] => 20
+    [type_prestataire] => 
+    [montant] => 9000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-18 23:46:11 - id_prestataire: 20, montant: 9000
+2026-05-18 23:46:11 - Prestataire trouvé: Array
+(
+    [nom] => Gerardd
+    [prenom] => dd
+    [type_prestataire] => brodeur
+)
+
+2026-05-18 23:46:11 - Catégorie: salaire_prestataire_brodeur, Référence: DEP-20260518-8520
+2026-05-18 23:46:11 - Dépense créée avec succès, ID: 25
+2026-05-18 23:46:11 - Mise à jour total_paye: OK
+2026-05-18 23:46:11 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-18 23:46:11 - Succès! Redirection
+2026-05-19 00:38:34 - === Début paiement ===
+2026-05-19 00:38:34 - POST: Array
+(
+    [id_prestataire] => 9
+    [type_prestataire] => 
+    [montant] => 10000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-19 00:38:34 - id_prestataire: 9, montant: 10000
+2026-05-19 00:38:34 - Prestataire trouvé: Array
+(
+    [nom] => Kinda
+    [prenom] => Zaibh
+    [type_prestataire] => vendeuse
+)
+
+2026-05-19 00:38:34 - Catégorie: commission_prestataire_vendeuse, Référence: DEP-20260519-6502
+2026-05-19 00:38:34 - Dépense créée avec succès, ID: 26
+2026-05-19 00:38:34 - Mise à jour total_paye: OK
+2026-05-19 00:38:34 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-19 00:38:34 - Succès! Redirection
+2026-05-19 00:38:47 - === Début paiement ===
+2026-05-19 00:38:47 - POST: Array
+(
+    [id_prestataire] => 19
+    [type_prestataire] => 
+    [montant] => 12000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-19 00:38:47 - id_prestataire: 19, montant: 12000
+2026-05-19 00:38:47 - Prestataire trouvé: Array
+(
+    [nom] => Arafat
+    [prenom] => 
+    [type_prestataire] => brodeur
+)
+
+2026-05-19 00:38:47 - Catégorie: salaire_prestataire_brodeur, Référence: DEP-20260519-8939
+2026-05-19 00:38:47 - Dépense créée avec succès, ID: 27
+2026-05-19 00:38:47 - Mise à jour total_paye: OK
+2026-05-19 00:38:47 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-19 00:38:47 - Succès! Redirection
+2026-05-19 00:41:44 - === Début paiement ===
+2026-05-19 00:41:44 - POST: Array
+(
+    [id_prestataire] => 31
+    [type_prestataire] => 
+    [montant] => 20000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-19 00:41:44 - id_prestataire: 31, montant: 20000
+2026-05-19 00:41:44 - Prestataire trouvé: Array
+(
+    [nom] => KABORE
+    [prenom] => Elisa
+    [type_prestataire] => mercerie
+)
+
+2026-05-19 00:41:44 - Catégorie: salaire_prestataire_mercerie, Référence: DEP-20260519-4386
+2026-05-19 00:41:44 - Dépense créée avec succès, ID: 28
+2026-05-19 00:41:44 - Mise à jour total_paye: OK
+2026-05-19 00:41:44 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-19 00:41:44 - Succès! Redirection
+2026-05-19 01:50:10 - === Début paiement ===
+2026-05-19 01:50:10 - POST: Array
+(
+    [id_prestataire] => 20
+    [type_prestataire] => 
+    [montant] => 100000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-19 01:50:10 - id_prestataire: 20, montant: 100000
+2026-05-19 01:50:10 - Prestataire trouvé: Array
+(
+    [nom] => Gerardd
+    [prenom] => dd
+    [type_prestataire] => brodeur
+)
+
+2026-05-19 01:50:10 - Catégorie: salaire_prestataire_brodeur, Référence: DEP-20260519-1369
+2026-05-19 01:50:10 - Dépense créée avec succès, ID: 30
+2026-05-19 01:50:10 - Mise à jour total_paye: OK
+2026-05-19 01:50:10 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-19 01:50:10 - Succès! Redirection
+2026-05-19 03:29:48 - === Début paiement ===
+2026-05-19 03:29:48 - POST: Array
+(
+    [id_prestataire] => 20
+    [type_prestataire] => 
+    [montant] => 10000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-19 03:29:48 - id_prestataire: 20, montant: 10000
+2026-05-19 03:29:48 - Prestataire trouvé: Array
+(
+    [nom] => Gerardd
+    [prenom] => dd
+    [type_prestataire] => brodeur
+)
+
+2026-05-19 03:29:48 - Catégorie: salaire_prestataire_brodeur, Référence: DEP-20260519-7035
+2026-05-19 03:29:48 - Dépense créée avec succès, ID: 32
+2026-05-19 03:29:48 - Mise à jour total_paye: OK
+2026-05-19 03:29:48 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-19 03:29:48 - Succès! Redirection
+2026-05-19 19:08:03 - === Début paiement ===
+2026-05-19 19:08:03 - POST: Array
+(
+    [id_prestataire] => 32
+    [type_prestataire] => 
+    [montant] => 8000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-19 19:08:03 - id_prestataire: 32, montant: 8000
+2026-05-19 19:08:03 - Prestataire trouvé: Array
+(
+    [nom] => KABORE
+    [prenom] => Amsetou
+    [type_prestataire] => mercerie
+)
+
+2026-05-19 19:08:03 - Catégorie: salaire_prestataire_mercerie, Référence: DEP-20260519-6904
+2026-05-19 19:08:03 - Dépense créée avec succès, ID: 34
+2026-05-19 19:08:03 - Mise à jour total_paye: OK
+2026-05-19 19:08:03 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-19 19:08:03 - Succès! Redirection
+2026-05-31 22:36:35 - === Début paiement ===
+2026-05-31 22:36:35 - POST: Array
+(
+    [id_prestataire] => 32
+    [type_prestataire] => 
+    [montant] => 5000
+    [mode_paiement] => especes
+    [reference_transaction] => 
+    [remarques] => 
+)
+
+2026-05-31 22:36:35 - id_prestataire: 32, montant: 5000
+2026-05-31 22:36:35 - Prestataire trouvé: Array
+(
+    [nom] => KABORE
+    [prenom] => Amsetou
+    [type_prestataire] => mercerie
+)
+
+2026-05-31 22:36:35 - Catégorie: salaire_prestataire_mercerie, Référence: DEP-20260531-6530
+2026-05-31 22:36:35 - Dépense créée avec succès, ID: 37
+2026-05-31 22:36:35 - Mise à jour total_paye: OK
+2026-05-31 22:36:35 - Mise à jour productions: OK, lignes affectées: 0
+2026-05-31 22:36:35 - Succès! Redirection

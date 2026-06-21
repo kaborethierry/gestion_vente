@@ -1,0 +1,20 @@
+Nom : KABORE Thierry
+
+Résumé des challenges résolus – Demi-finale Hack to Protect 2025
+
+1. Challenge : H2P_13.py
+Flag trouvé : Mr.KABO{flag}
+Méthode : Décodage par ROT13 sur une variable encodée dans le script Python.
+
+2. Challenge : document_curieux.docx
+Flag trouvé : H2P{$L58Cn}
+Méthode :
+- Extraction des chaînes avec `strings` sur une image embarquée dans le document.
+- Reconstruction manuelle du flag par permutation.
+- Validation via script Python.
+
+3. Challenge : secret.zip (lié à leet_crack.sh)
+Mot de passe trouvé : th13rry99
+Méthode :
+- Génération automatique de variantes leet avec suffixes numériques via `generate_leet.py`.
+- Test de chaque combinaison sur l’archive ZIP avec `7z`.
